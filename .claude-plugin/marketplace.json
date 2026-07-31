@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "code-formatter",
-      "source": "./plugins/formatter",
+      "name": "test-plugin123",
+      "source": "./plugins/test-plugin",
       "description": "Automatic code formatting on save",
       "version": "2.1.0",
       "author": {
