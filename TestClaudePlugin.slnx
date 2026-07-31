@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/testplugin/" />
   <Folder Name="/testplugin/.claude-plugin/">
+    <File Path="marketplace.json" />
     <File Path="plugin.json" />
   </Folder>
 </Solution>
