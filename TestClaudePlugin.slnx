@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/testplugin/" />
+  <Folder Name="/testplugin/.claude-plugin/">
+    <File Path="plugin.json" />
+  </Folder>
+</Solution>
