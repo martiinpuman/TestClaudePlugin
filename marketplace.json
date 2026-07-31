@@ -8,7 +8,7 @@
     {
       "name": "test-plugin",
       "source": "./plugins/test-plugin",
-      "description": "Automatic code formatting on save",
+      "description": "Hello World",
       "version": "2.2.0",
       "author": {
         "name": "DevTools Team"
